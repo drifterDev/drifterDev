@@ -1,6 +1,6 @@
 # Mateo Álvarez - Estudiante de Ingeniería en Sistemas e Informática
 
-¡Hola! Soy Mateo, un estudiante de Ingeniería en Sistemas e Informática con interés en el desarrollo de software. Actualmente estoy aprendiendo el TALL stack (Tailwind CSS, Alpine.js, Laravel y Livewire) para desarrollar aplicaciones web modernas y eficientes.
+¡Hola! Soy Mateo, un estudiante de Ingeniería en Sistemas e Informática de la Universidad Nacional de Colombia con interés en el desarrollo de software. Actualmente estoy aprendiendo el TALL stack (Tailwind CSS, Alpine.js, Laravel y Livewire) para desarrollar aplicaciones web modernas y eficientes.
 
 ## Aprendiendo
 
