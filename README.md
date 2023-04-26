@@ -2,14 +2,6 @@
 
 ¡Hola! Soy Mateo, un estudiante de Ingeniería en Sistemas e Informática de la Universidad Nacional de Colombia con interés en el desarrollo de software. Actualmente estoy aprendiendo el TALL stack (Tailwind CSS, Alpine.js, Laravel y Livewire) para desarrollar aplicaciones web modernas y eficientes.
 
-## Aprendiendo
-
-- HTML5
-- CSS3 (con Tailwind CSS)
-- JavaScript (con Alpine.js)
-- PHP (con Laravel)
-- Livewire
-
 ## Objetivos
 
 - Mejorar mis habilidades en el desarrollo de software utilizando el TALL stack.
