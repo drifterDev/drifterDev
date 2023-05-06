@@ -4,7 +4,7 @@ Soy estudiante de Ingeniería en Sistemas e Informática de la Universidad Nacio
 
 ## Objetivos
 
-- Mejorar mis habilidades en programación y tecnologías.
+- Mejorar mis habilidades en programación y tecnología.
 - Aprender y mantenerme actualizado en las últimas tendencias y avances en tecnología.
 - Aplicar lo que aprendo en proyectos prácticos para adquirir experiencia y consolidar mis habilidades.
 - Desarrollar proyectos personales y de colaboración para mejorar mis habilidades blandas y ampliar mi experiencia.
