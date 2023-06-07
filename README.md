@@ -11,5 +11,5 @@ Soy estudiante de Ingeniería en Sistemas e Informática de la Universidad Nacio
 
 ## Contacto
 
-Si estás interesado en colaborar en proyectos, no dudes en contactarme por correo electrónico: [maalvarezmu@unal.edu.co](mailto:maalvarezmu@unal.edu.co).
+Si estás interesado en colaborar en proyectos, puedes contactarme por correo electrónico: [maalvarezmu@unal.edu.co](mailto:maalvarezmu@unal.edu.co).
 
