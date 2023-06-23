@@ -1,15 +1,16 @@
-# Estudiante de Informática
+# Estudiante de Ingeniería en Sistemas e Informática
 
-Soy estudiante de Ingeniería en Sistemas e Informática de la Universidad Nacional de Colombia con interés en el desarrollo de software. Actualmente estoy aprendiendo el TALL stack (Tailwind CSS, Alpine.js, Laravel y Livewire) para desarrollar aplicaciones web.
+Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software. Actualmente me encuentro enfocado en aprender el TALL stack (Tailwind CSS, Alpine.js, Laravel y Livewire) para desarrollar aplicaciones web.
 
 ## Objetivos
 
-- Mejorar mis habilidades en programación y tecnología.
-- Aprender y mantenerme actualizado en las últimas tendencias y avances en tecnología.
-- Aplicar lo que aprendo en proyectos prácticos para adquirir experiencia y consolidar mis habilidades.
-- Desarrollar proyectos personales y de colaboración para mejorar mis habilidades blandas y ampliar mi experiencia.
+Mis principales objetivos son:
+
+- Mejorar constantemente mis habilidades en programación y tecnología.
+- Mantenerme al día con las últimas tendencias y avances en el campo de la tecnología.
+- Aplicar de manera efectiva mis conocimientos en proyectos prácticos.
+- Desarrollar proyectos personales y colaborativos que me permitan mejorar mis habilidades blandas, al tiempo que amplío mi experiencia en el desarrollo de software.
 
 ## Contacto
 
-Si estás interesado en colaborar en proyectos, puedes contactarme por correo electrónico: [maalvarezmu@unal.edu.co](mailto:maalvarezmu@unal.edu.co).
-
+Si estás interesado en colaborar en proyectos o tienes alguna consulta, no dudes en contactarme a través de mi correo electrónico: [maalvarezmu@unal.edu.co](mailto:maalvarezmu@unal.edu.co). Estoy abierto a oportunidades de aprendizaje y colaboración en el campo de la tecnología.
