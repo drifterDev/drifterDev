@@ -4,7 +4,15 @@ Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacio
 
 
 ## Estadísticas
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drifterDev&theme=github-dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
+<p align="center" width="100%">
+  <a href="https://github.com/drifterDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifterDev&layout=donut&theme=github_dark" />
+  </a>&nbsp;
+  <a href="https://github.com/drifterDev">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=drifterDev&theme=github-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500&border=AEAEB0" />
+  </a>
+</p>
 
 
 ## Contacto
