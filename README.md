@@ -14,3 +14,9 @@ Mis principales objetivos son:
 ## Contacto
 
 Si estás interesado en colaborar en proyectos o tienes alguna consulta, no dudes en contactarme a través de mi correo electrónico: [maalvarezmu@unal.edu.co](mailto:maalvarezmu@unal.edu.co). Estoy abierto a oportunidades de aprendizaje y colaboración en el campo de la tecnología.
+
+## Estadísticas
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drifterDev&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drifterDev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
