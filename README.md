@@ -48,23 +48,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drifterDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=drifterDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<p align="center" width="100%">
+  <a href="https://github.com/drifterDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifterDev&layout=donut&theme=github_dark" />
+  </a>&nbsp;
+  <a href="https://github.com/drifterDev">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=drifterDev&theme=github-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=400&border=AEAEB0&hide_longest_streak=true" />
+  </a>
+</p>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/drifterDev/drifterDev/output/snake.svg" alt="Snake animation" />
+<h2>Licencia</h2>
 
 ###
 
-<h2 align="center">Licencia</h2>
-
-###
-
-<p align="center">Todos mis proyectos y repositorios están bajo la <a href="https://opensource.org/licenses/MIT">Licencia MIT</a>.</p>
+<p>Todos mis proyectos y repositorios están bajo la <a href="https://opensource.org/licenses/MIT">Licencia MIT</a>.</p>
 
 ###
