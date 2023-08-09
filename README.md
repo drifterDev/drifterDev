@@ -1,14 +1,8 @@
-<h1 align="left">Estudiante de Ingeniería Informática</h1>
+# Estudiante de Ingeniería Informática
 
-###
+Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software. Actualmente, me encuentro enfocado en aprender Vue.js y Laravel para desarrollar aplicaciones web.
 
-<p align="left">Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software. Actualmente, me encuentro enfocado en aprender Vue.js y Laravel para desarrollar aplicaciones web.</p>
-
-###
-
-<h2 align="left">Tecnologías y lenguajes</h2>
-
-###
+### Tecnologías y lenguajes
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -42,27 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+### Licencia
 
-<h2 align="left">Estadísticas</h2>
-
-###
-
-<p align="center" width="100%">
-  <a href="https://github.com/drifterDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifterDev&layout=donut&theme=github_dark" />
-  </a>&nbsp;
-  <a href="https://github.com/drifterDev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=drifterDev&theme=github-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=400&border=AEAEB0&hide_longest_streak=true" />
-  </a>
-</p>
-
-###
-
-<h2>Licencia</h2>
-
-###
-
-<p>Todos mis proyectos y repositorios están bajo la <a href="https://opensource.org/licenses/MIT">Licencia MIT</a>.</p>
-
-###
+Todos mis proyectos y repositorios están bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
