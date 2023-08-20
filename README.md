@@ -1,27 +1,21 @@
-<h1 align="left">Estudiante de Ingeniería Informática</h1>
+# Estudiante de Ingeniería Informática
+
+Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software. Actualmente, me encuentro enfocado en aprender Laravel para desarrollar aplicaciones web.
+
+## Estadísticas
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software. Actualmente, me encuentro enfocado en aprender Laravel para desarrollar aplicaciones web.</p>
-
-###
-
-<h2 align="left">Estadísticas</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=drifterDev&locale=es&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drifterDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
-###
-
-<h2 align="left">Tecnologías y lenguajes</h2>
+## Tecnologías y lenguajes
 
 ###
 
-<img align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/011/360/580/non_2x/cute-cat-sleeping-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" />
+<img align="right" height="140" src="https://static.vecteezy.com/system/resources/previews/011/360/580/non_2x/cute-cat-sleeping-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" />
 
 ###
 
@@ -61,16 +55,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-</div>
+</div><div clear="both"></div>
 
-###
+## Licencia
 
-<br clear="both">
+Todos mis proyectos y repositorios están bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
-<h2 align="left">Licencia</h2>
-
-###
-
-<p align="left">Todos mis proyectos y repositorios están bajo la <a href="https://opensource.org/licenses/MIT">Licencia MIT</a>.</p>
-
-###
