@@ -2,15 +2,6 @@
 
 Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software. Actualmente, me encuentro enfocado en aprender Laravel para desarrollar aplicaciones web.
 
-## Estadísticas
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=drifterDev&locale=es&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drifterDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
 ## Tecnologías y lenguajes
 
 ###
