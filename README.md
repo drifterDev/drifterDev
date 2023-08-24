@@ -6,7 +6,7 @@ Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacio
 
 ###
 
-<img align="right" height="140" src="https://static.vecteezy.com/system/resources/previews/011/360/580/non_2x/cute-cat-sleeping-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" />
+<img align="right" height="120" src="https://static.vecteezy.com/system/resources/previews/011/360/580/non_2x/cute-cat-sleeping-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" />
 
 ###
 
@@ -38,10 +38,6 @@ Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacio
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
