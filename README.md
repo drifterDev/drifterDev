@@ -44,7 +44,3 @@ Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacio
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div><div clear="both"></div>
 
-## Licencia
-
-Todos mis proyectos y repositorios están bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
-
