@@ -1,6 +1,6 @@
 # Estudiante de Ingeniería Informática
 
-Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software y la programación competitiva. Actualmente, me encuentro enfocado en aprender Laravel para desarrollar aplicaciones web.
+Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacional de Colombia, con un fuerte interés en el desarrollo de software y la programación competitiva. Actualmente, me encuentro enfocado en aprender desarrollo backend con Laravel para desarrollar aplicaciones web.
 
 ## Tecnologías y lenguajes
 
