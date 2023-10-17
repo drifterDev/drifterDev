@@ -46,3 +46,6 @@ Soy estudiante de Ingeniería en Sistemas e Informática en la Universidad Nacio
   <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white&style=for-the-badge" height="30" alt="less logo"  />
 </div><div clear="both"></div>
 
+## Badges
+
+[![An image of @drifterdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drifterdev)](https://holopin.io/@drifterdev)
