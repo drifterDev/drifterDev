@@ -1,6 +1,3 @@
-<h1 align="center">Hola, soy Mateo / DrifterDev</h1>
-<h4 align="center">Un estudiante de desarrollo web del TALL stack</h3>
-
 ## Tecnologías y lenguajes
 
 ###
