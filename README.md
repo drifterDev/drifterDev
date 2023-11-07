@@ -1,10 +1,6 @@
 ## Tecnologías y lenguajes
 
-###
-
 <img align="right" height="120" src="https://static.vecteezy.com/system/resources/previews/011/360/580/non_2x/cute-cat-sleeping-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" />
-
-### 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" height="30" alt="babel logo"  />
