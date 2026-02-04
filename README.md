@@ -1,6 +1,6 @@
 # Mateo Álvarez Murillo
 
-Soy **estudiante de Ingeniería de Sistemas e Informática** en la **Universidad Nacional de Colombia**, actualmente estoy **cursando mi quinto año de carrera**. Me enfoco en la **programación competitiva**, aplicando **estructuras de datos y algoritmos**, y también realizo **desarrollo de software**.
+Soy **estudiante de Ingeniería de Sistemas e Informática** en la **Universidad Nacional de Colombia** sede Medellín, actualmente estoy cursando mi quinto año de carrera. Me enfoco en la **programación competitiva**, aplicando **estructuras de datos y algoritmos**, y también realizo desarrollo de software.
 
 ## Programación competitiva
 Participo activamente en competencias y plataformas de programación, resolviendo problemas que requieren análisis, diseño de soluciones eficientes y uso avanzado de estructuras de datos y algoritmos.
